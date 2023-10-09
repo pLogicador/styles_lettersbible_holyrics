@@ -1,0 +1,52 @@
+/* 
+    Autor: Pedro Miranda
+    Data: 08/10/23
+    Descrição:  Este arquivo CSS contém estilos personalizados especialmente projetados para o slide de letras personalizado do Holyrics. 
+    
+                As letras personalizadas são estilizadas para se integrarem perfeitamente ao design único do slide.
+
+                Um fundo (apesar de poder altera-lo) é escuro semi-transparente o que traz destaque as letras e as mantém legíveis. 
+
+                Uma borda sólida em preto, com cantos arredondados. 
+                
+                Efeitos visuais sutis são alcançados com a sombra do texto, proporcionando uma sensação de profundidade às letras.
+                
+                A escolha da fonte "Times New Roman" (apesar de poder altera-la) mantém o padrão, enquanto o tamanho da fonte enfatiza o conteúdo. 
+                
+                A disposição inline-block garante uma organização uniforme, e a configuração de tamanho e posicionamento assegura um 
+                encaixe no layout do slide. 
+                
+                A posição horizontal das letras é ajustada para um alinhamento consistente e agradável dentro do contexto do Holyrics.
+
+*/
+.text-custom span {
+  background-image: linear-gradient(-50deg, rgba(0,0,0, 0.95), rgba(60,60,60, 0.95));
+  display: inline-flex;
+  border-radius: 30px 0 30px 0;
+  border: 2px solid black;
+  padding: 35px;
+  /*line-height: 50px;*/
+  text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
+  /*font-family: "Times New Roman", serif;*/
+  font-family: 'Lora', serif;
+  color: #fff;
+  white-space: nowrap;
+  position: relative;
+  text-align: center;
+  font-size: 1111%;
+  font-weight: bold;
+  width: 900px;
+  height: 99px;
+  overflow: hidden; 
+  align-items: center;        
+  justify-content: center;
+  -webkit-text-stroke: 0.10px black;
+  text-stroke: 0.10px black;
+}
+
+
+/* Ajuste a posição horizontal das letras */
+.text-custom span p {
+  margin: 0;
+  padding: 0;
+}
