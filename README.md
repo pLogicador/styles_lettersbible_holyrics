@@ -2,7 +2,7 @@
 
 Com dedicação voluntária à divulgação do evangelho, criei estilos CSS personalizados projetados exclusivamente para uso no OBS (Open Broadcaster Software) com o Holyrics durante transmissões ao vivo. Este repositório oferece uma solução visualmente cativante e profissional para a Bíblia e letras de músicas, elevando a qualidade das suas transmissões enquanto compartilha a mensagem sagrada. Junte-se a nós nesta missão de tornar a pregação do evangelho ainda mais poderosa, proporcionando um ambiente visualmente impactante para sua audiência online, tudo de forma gratuita e dedicada.
 
-Você pode visualizar os estilos em ação no canal da Igreja Prebiteriana Primeiro de Maio, onde é realizado transmissões ao vivo de culto. Clique no link abaixo para assistir:
+Você pode visualizar os estilos que utilizei em ação no canal da Igreja Prebiteriana Primeiro de Maio, onde é realizado transmissões ao vivo de culto. Clique no link abaixo para assistir:
 
 [Clique aqui](https://www.youtube.com/@ip1maio) e cofira!
 
